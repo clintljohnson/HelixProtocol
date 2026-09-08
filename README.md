@@ -6,7 +6,7 @@ A neon lab-containment take on the arcade classic, built as a single self-contai
 
 You have one job: don't bite yourself. It gets complicated.
 
-![Helix Protocol gameplay](helix-protocol-v15.png)
+![Helix Protocol gameplay](helix-protocol-v16.png)
 
 ---
 
