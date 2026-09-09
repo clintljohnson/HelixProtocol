@@ -12,7 +12,7 @@ You have one job: don't bite yourself. It gets complicated.
 
 ## Play it
 
-Download `helix-protocol-v15.html` and open it in any modern browser. That's the whole install.
+Download `helix-protocol-v16.html` and open it in any modern browser. That's the whole install.
 
 No build step, no bundler, no `npm install`, no server. One file, ~95 KB, everything inside it: the game, the audio, the art, the UI. It runs from a `file://` URL on a plane.
 
